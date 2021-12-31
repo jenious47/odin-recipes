@@ -1,2 +1,5 @@
-# odin-recipes
-Recipe Website Project
+Recipe Website
+
+Website with links to various recipes
+
+Skills demonstrated
